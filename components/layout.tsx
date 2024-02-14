@@ -199,6 +199,7 @@ export default function Layout({
             link: "/account", label: "Account Wide", subLinks: [
                 { subLink: "/task-board", label: "Task Board" },
                 { subLink: "/constellations", label: "Constellations" },
+                { subLink: "/cards", label: "Cards" },
                 { subLink: "/quests", label: "Quests" },
                 { subLink: "/slab", label: "Slab" },
                 { subLink: "/storage", label: "Storage" },
